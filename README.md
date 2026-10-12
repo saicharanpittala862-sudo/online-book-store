@@ -34,5 +34,5 @@ Each developer works on a separate feature branch.
 * Resolve merge conflicts
 * Test the integrated application
 
-Bookstore theme: Classic Blue
+Bookstore theme: Classic Blue with Modern Green accents
 
